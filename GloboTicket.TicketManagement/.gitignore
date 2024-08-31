@@ -1,0 +1,14 @@
+ Ignoră fișierele de configurare care pot conține informații sensibile
+GloboTicket.TicketManagement.Api/appsettings.json
+GloboTicket.TicketManagement.Api/appsettings.Development.json
+
+# Ignoră folderele bin și obj generate de compilator
+**/bin/
+**/obj/
+
+# Ignoră fișierele utilizatorului și alte fișiere generate de IDE
+*.csproj.user
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
